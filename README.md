@@ -1,2 +1,2 @@
 # sugar-Picgo
-图床
+manager
